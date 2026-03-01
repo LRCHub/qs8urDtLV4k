@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "白い雲のように",
+  "base_artist": "猿岩石",
+  "createdAt": "2026-03-01T18:59:15.362288Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白い雲のように",
+      "artist": "May J. with クリス・ハート",
+      "has_synced": false,
+      "path": "select/01_白い雲のように_May_J._with_クリス・ハート.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白い雲のように",
+      "artist": "May J.",
+      "has_synced": false,
+      "path": "select/02_白い雲のように_May_J..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "白い雲のように",
+      "artist": "Saruganseki",
+      "has_synced": true,
+      "path": "select/03_白い雲のように_Saruganseki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "白い雲のように",
+      "artist": "Hitomi Shimatani",
+      "has_synced": false,
+      "path": "select/04_白い雲のように_Hitomi_Shimatani.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "白い雲のように",
+      "artist": "猿岩石",
+      "has_synced": true,
+      "path": "select/05_白い雲のように_猿岩石.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白い雲のように",
+      "artist": "猿岩石",
+      "has_synced": false,
+      "path": "select/pl_01_白い雲のように_猿岩石.txt"
+    }
+  ]
+}
